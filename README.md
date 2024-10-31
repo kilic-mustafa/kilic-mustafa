@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kılıç</h1>
 <h3 align="center">Computer engineering student</h3>
 
-![AI-for-HRLawBlog-5-8-23-768x280](https://github.com/user-attachments/assets/c26848d1-8fd3-4d9e-b3c9-3121efe8e33c)
-
 I am studying computer engineering at Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields.
 - 🌱 I’m currently learning **Java/Python**
 
