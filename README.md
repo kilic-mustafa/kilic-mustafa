@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kılıç</h1>
 <h3 align="center">Computer engineering student</h3>
 
-![AI-for-HRLawBlog-5-8-23-768x280](https://github.com/user-attachments/assets/4919655d-8af7-47e5-b401-83b43017eac3)
+![AI-for-HRLawBlog-5-8-23-768x280](https://github.com/user-attachments/assets/c26848d1-8fd3-4d9e-b3c9-3121efe8e33c)
 
 - 🔭 I’m currently working on **Artificial intelligence**
 
@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilic-mustafa&show_icons=true&locale=en" alt="kilic-mustafa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilic-mustafa&" alt="kilic-mustafa" /></p>
+
 ![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg)
