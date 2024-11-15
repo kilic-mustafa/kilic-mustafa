@@ -14,6 +14,7 @@ I am studying computer engineering at Celal Bayar University. I am interested in
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilic-mustafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="kilic-mustafa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilic-mustafa&theme=dark" alt="kilic-mustafa" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kilic-mustafa&theme=dark&hide_border=true)<br/>
+
 
 ![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg)
