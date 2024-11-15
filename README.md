@@ -13,8 +13,7 @@ I am studying computer engineering at Celal Bayar University. I am interested in
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilic-mustafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="kilic-mustafa" /></p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kilic-mustafa&theme=dark&hide_border=true)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kilic-mustafa&layout=compact&theme=dark" alt="kilic-mustafa" /></p>
 
 
 ![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg)
