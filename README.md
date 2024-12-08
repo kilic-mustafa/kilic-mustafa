@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <!-- <h3 align="center">Computer Engineering Student</h3> -->
+<!--I am studying computer engineering at Manisa Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields. -->
 
-I am studying computer engineering at Manisa Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields.
+I am a 2nd-year Computer Engineering student at Manisa Celal Bayar University. I strive to continuously improve myself in the field of software development. As an aspiring engineer who is open to technological innovations, eager to learn, and skilled in teamwork, I constantly enhance my technical skills through projects and various training programs.
+
 - 🌱 I’m currently learning **Java/Python**
 
 - 📫 How to reach me **klcm51@gmail.com**
