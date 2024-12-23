@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<!--<h1 align="center">Hi 👋, I'm Mustafa</h1>
 <!-- <h3 align="center">Computer Engineering Student</h3> -->
-I am studying computer engineering at Manisa Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields.
+<!--I am studying computer engineering at Manisa Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields.
 
 - 🌱 I’m currently learning **Java/Python**
 
