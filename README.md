@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 I am studying computer engineering at Manisa Celal Bayar University. I am interested in data science, big data, deep learning and artificial intelligence innovations and I work in these fields.
 
-- 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **klcm51@gmail.com**
 
 #  Connect with me:
