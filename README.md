@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Mustafa Kılıç</h1>
+# 👋 Hi, I'm Mustafa Kılıç
 
 🚀 Software Developer
 
