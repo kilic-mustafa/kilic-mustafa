@@ -8,12 +8,6 @@ I specialize in full-stack web development and enjoy building high-quality solut
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilic-mustafa&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kilic-mustafa&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kilic-mustafa&theme=github_dark)
-
----
-
 ## 🛠️ Tech Stack & Expertise
 <ul align="left">
   <li>.NET Core 🏗️ – Preferred for building scalable, high-performance backend systems.</li>
@@ -29,9 +23,5 @@ If you're looking for a dedicated developer or want to collaborate on an excitin
 
 - 📩 Email: [klcm51@gmail.com](mailto:klcm51@gmail.com)
 - 💼 LinkedIn: [Mustafa Kılıç](https://linkedin.com/in/kilic-mustafa/)
-
----
-
-![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg) 
 
 ---
