@@ -8,6 +8,16 @@ I specialize in full-stack web development and enjoy building high-quality solut
 
 ---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kilic-mustafa&theme=radical)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kilic-mustafa&theme=radical" width="34.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kilic-mustafa&theme=radical" width="34.5%" />
+</p>
+
+
+---
+
 ## 🛠️ Tech Stack & Expertise
 <ul align="left">
   <li>.NET Core 🏗️ – Preferred for building scalable, high-performance backend systems.</li>
