@@ -13,7 +13,7 @@ I specialize in full-stack web development and enjoy building high-quality solut
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kilic-mustafa&theme=radical" width="49.78%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kilic-mustafa&theme=radical" width="49.77%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kilic-mustafa&theme=radical" width="49.78%" />
 </p>
 
 
