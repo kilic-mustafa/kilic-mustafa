@@ -32,4 +32,6 @@ If you're looking for a dedicated developer or want to collaborate on an excitin
 
 ---
 
-<!-- ![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg) -->
+![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg) 
+
+---
