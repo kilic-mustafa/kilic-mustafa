@@ -6,6 +6,12 @@
 I specialize in full-stack web development and enjoy building high-quality solutions that solve real-world problems through clean design, efficient architecture, and modern web technologies.
 </p>
 
+## 📫 Connect with Me
+If you're looking for a dedicated developer or want to collaborate on an exciting project, feel free to reach out:
+
+- 📩 Email: [klcm51@gmail.com](mailto:klcm51@gmail.com)
+- 💼 LinkedIn: [Mustafa Kılıç](https://linkedin.com/in/kilic-mustafa/)
+
 ## 🛠️ Tech Stack & Expertise
 <ul align="left">
   <li>.NET Core 🏗️ – Preferred for building scalable, high-performance backend systems.</li>
@@ -13,11 +19,5 @@ I specialize in full-stack web development and enjoy building high-quality solut
   <li>Entity Framework Core (EF Core) 🔍 – ORM for managing relational databases efficiently.</li>
   <li>SQL (PostgreSQL, MySQL) 🗄️ – Handling structured and unstructured data effectively.</li>
 </ul>
-
-## 📫 Connect with Me
-If you're looking for a dedicated developer or want to collaborate on an exciting project, feel free to reach out:
-
-- 📩 Email: [klcm51@gmail.com](mailto:klcm51@gmail.com)
-- 💼 LinkedIn: [Mustafa Kılıç](https://linkedin.com/in/kilic-mustafa/)
 
 <!-- ![snake gif](https://github.com/kilic-mustafa/kilic-mustafa/blob/output/github-snake-dark.svg) -->
