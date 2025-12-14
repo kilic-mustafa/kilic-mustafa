@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mustafa Kılıç
+# Hi, I'm Mustafa Kılıç
 
-🚀 Software Developer
+Software Developer
 
 <p>
 I specialize in full-stack web development and enjoy building high-quality solutions that solve real-world problems through clean design, efficient architecture, and modern web technologies.
@@ -20,10 +20,10 @@ I specialize in full-stack web development and enjoy building high-quality solut
 
 ## 🛠️ Tech Stack & Expertise
 <ul align="left">
-  <li>.NET Core 🏗️ – Preferred for building scalable, high-performance backend systems.</li>
-  <li>ASP.NET Core Web API 🌐 – Building RESTful and maintainable APIs.</li>
-  <li>Entity Framework Core (EF Core) 🔍 – ORM for managing relational databases efficiently.</li>
-  <li>SQL (PostgreSQL, MySQL) 🗄️ – Handling structured and unstructured data effectively.</li>
+  <li>.NET Core – Preferred for building scalable, high-performance backend systems.</li>
+  <li>ASP.NET Core Web API – Building RESTful and maintainable APIs.</li>
+  <li>Entity Framework Core (EF Core) – ORM for managing relational databases efficiently.</li>
+  <li>SQL (PostgreSQL, MySQL) – Handling structured and unstructured data effectively.</li>
 </ul>
 
 ---
